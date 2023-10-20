@@ -28,7 +28,7 @@ public class Main {
                 resultado = num1 + num2;
                 sinal = '+';
             }
-            if (operacao == 2) {
+            if (operacao == 3) {
                 resultado = num1 - num2;
                 sinal = '-';
             }
